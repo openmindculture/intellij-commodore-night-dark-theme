@@ -1,0 +1,16 @@
+<scheme name="commodore_night_dark" version="142" parent_scheme="Darcula">
+    <colors>
+        <option name="DEFAULT" value="0302d5" />
+        <option name="GUTTER_BACKGROUND" value="0302d5" />
+        <option name="GUTTER_FOREGROUND" value="cfe3f6" />
+        <option name="LINE_NUMBERS_COLOR" value="cfe3f6"/>
+    </colors>
+    <attributes>
+        <option name="TEXT">
+            <value>
+                <option name="BACKGROUND" value="0302d5" />
+                <option name="FOREGROUND" value="ffffff" />
+            </value>
+        </option>
+    </attributes>
+</scheme>

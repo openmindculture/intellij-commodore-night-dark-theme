@@ -1,0 +1,42 @@
+.commodore_night {
+    --white: #ffffff;
+    --grayLight: #cdcdcd;
+    --grayMedium: #898989;
+    --grayDark: #424242;
+    --black: #000000;
+    --brownCommodore: #8d5f26;
+    --orangeBrownCommodore: #ca8109;
+    --yellow: #fcfc00;
+    --yellowMusicLight: #f5db00;
+    --yellowMusicDim: #eed600;
+    --yellowFashion: #e6ba04;
+    --green: #67e000;
+    --cyan: #78cda7;
+    --cyanAlternative: #76b7c1;
+    --blueLight: #3389ff;
+    --blueLightMusic: #cfe3f6;
+    --neonBlueBeffAlternative: #49BEFF;
+    --neonBlueLightAlternative: #3581FF;
+    --neonBlueDarkAlternative: #6061FF;
+    --blueMusicAlternative: #2973bf;
+    --blueDark: #0302d5;
+    --blueMidnightMusic: #071e76;
+    --bluePurpleDarkAlternative: #3c2e93;
+    --bluePurpleAlternative: #6b5ebc;
+    --purpleDarkAlternative: #853e9c;
+    --purple: #f019ff;
+    --purplePinkAlternative: #ea87fa;
+    --deepPinkAlternative: #e61687;
+    --red: #d44236;
+    --pinkSalmonMusic: #d86654;
+    --pink: #f48b86;
+    --pinkLightMusic: #dda79b;
+    --orangeLight: #FD9649;
+    --orangeSalmon: #F29463;
+    --orangeDeepAlternative: #F38300;
+    --orangeAmiga: #f48b00;
+    --foxYellowOrange: #E49000;
+    --orangeDeepYellowAlternative: #E49d41;
+}
+
+

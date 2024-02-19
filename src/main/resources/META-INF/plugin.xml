@@ -1,0 +1,21 @@
+<idea-plugin url="https://github.com/openmindculture/intellij-commodore-night-dark-theme">
+    <name>Commodore Night Dark Theme</name>
+    <id>com.github.openmindculture.intellijcommodorenightdarktheme</id>
+    <description>Commodore Night Dark Theme for IntelliJ Platform</description>
+    <change-notes>Stable theme release tested with 2024.1</change-notes>
+    <version>1.0.0</version>
+    <vendor url="https://github.com/openmindculture/">Ingo Steinke (openmindculture)</vendor>
+
+    <!-- Compatible with the following versions of IntelliJ Platform:
+      version 2020.2 and newer. -->
+    <idea-version since-build="202" />
+
+    <!-- Product and plugin compatibility requirements -->
+    <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <!-- Indicate this plugin can be loaded in all IntelliJ Platform-based products. -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="org.jetbrains.plugins.commodore_night_darktheme" path="/commodore_night_dark.theme.json"/>
+    </extensions>
+</idea-plugin>
