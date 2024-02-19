@@ -19,7 +19,17 @@ You can install the theme from JB marketplace (inside your IDE) or install zip f
 
 ### Screenshots
 
-![screenshot](commodore-night-dark-theme-1.0.0.png)
+New UI (WebStorm 2024.1 EAP)
+
+![screenshot 1](screenshot-commodore-night-new-ui-1.png)
+
+![screenshot 2](screenshot-commodore-night-new-ui-2.png)
+
+Classic UI (PhpStorm 2023.3.4)
+
+![screenshot 1](screenshot-commodore-night-classic-1.png)
+
+![screenshot 2](screenshot-commodore-night-classic-2.png)
 
 ### Local Installation
 
@@ -45,7 +55,9 @@ Supposedly original Commodore colors have no suffix, alternative additions possi
 
 ![screenshot](screenshot-palette.png)
 
-Moodboard for this theme: [screenshot-moodboard.png](screenshot-moodboard.png)
+Moodboard for this theme:
+
+![screenshot-moodboard.png](screenshot-moodboard.png)
 
 ### Development, Build and Export
 
