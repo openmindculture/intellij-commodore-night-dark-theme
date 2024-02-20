@@ -1,14 +1,14 @@
 # Commodore Night Dark Theme
 
 <!-- Plugin description -->
-[Coomodore Night (Shift) Dark Theme](TODO) is a dark IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Orange Rain Light Theme and JetBrains default dark editor scheme. There is also an Orange Rain Light Theme.
+[Coomodore Night (Shift) Dark Theme](https://plugins.jetbrains.com/plugin/23801-commodore-night-dark-theme/edit) is a dark IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Orange Rain Light Theme and JetBrains default dark editor scheme. There is also an Orange Rain Light Theme.
 
 If you like to support development, you can open a pull request on GitHub.
 
 For JetBrains IDEs, 
 To install:
 - Go to Settings (Preferences) | Plugins, find the theme plugin and install it
-- (_or_ download [Commodore Night Dark Theme from JetBrains Plugins page](TODO)) 
+- (_or_ download [Commodore Night Dark Theme from JetBrains Plugins page](https://plugins.jetbrains.com/plugin/23801-commodore-night-dark-theme/edit)) 
 - Restart IDE
 - Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown
 
